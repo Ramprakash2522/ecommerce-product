@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import CardboardBoxes from "../Image/CardboardBoxes.jpg";
 
 class Card extends Component {
-  
+  // this is made by ram prakash
   render() {
     return (
       <div>
